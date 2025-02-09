@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\juegomemoria_test\\js\\juegomemoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|solutionrelative:juegomemoria_test\\js\\juegomemoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\juegomemoria_test\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|solutionrelative:juegomemoria_test\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\juegomemoria_test\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|solutionrelative:juegomemoria_test\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|c:\\users\\gabriela\\downloads\\juegomemoria\\juegomemoria_viewstate\\juegomemoria_test\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4CB7CB-977D-4E56-BFCF-FDBEC0CE0F68}|JuegoMemoria_Test\\JuegoMemoria_Test.csproj|solutionrelative:juegomemoria_test\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "juegoMemoria.js",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\js\\juegoMemoria.js",
+              "RelativeDocumentMoniker": "JuegoMemoria_Test\\js\\juegoMemoria.js",
+              "ToolTip": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\js\\juegoMemoria.js",
+              "RelativeToolTip": "JuegoMemoria_Test\\js\\juegoMemoria.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T01:59:53.99Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "JuegoMemoria_Test\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Default.aspx.cs",
+              "RelativeToolTip": "JuegoMemoria_Test\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T03:26:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Style\\style.css",
+              "RelativeDocumentMoniker": "JuegoMemoria_Test\\Style\\style.css",
+              "ToolTip": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Style\\style.css",
+              "RelativeToolTip": "JuegoMemoria_Test\\Style\\style.css",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-09T02:08:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Default.aspx",
+              "RelativeDocumentMoniker": "JuegoMemoria_Test\\Default.aspx",
+              "ToolTip": "C:\\Users\\GABRIELA\\Downloads\\JuegoMemoria\\JuegoMemoria_viewstate\\JuegoMemoria_Test\\Default.aspx",
+              "RelativeToolTip": "JuegoMemoria_Test\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-09T02:00:16.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
